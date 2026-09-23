@@ -8,10 +8,10 @@ An AI-powered movie recommendation application that uses **Google Gemini**, **vo
 ![Home Screen](screenshots/home.png)
 
 ### Preference Selection
-![Movie Recommendations image 1](screenshots/recommendations1.png)
+![Movie Recommendations image 1](screenshots/recommendation1.png)
 
 ### Movie Recommendations
-![Movie Recommendations image 2](screenshots/recommendations2.png)
+![Movie Recommendations image 2](screenshots/recommendation2.png)
 
 ### Voice Output
 ![Voice Output](screenshots/voice-output.png)
